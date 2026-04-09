@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1771579837523,
+    "name": "admin",
+    "email": "boss@admin.com",
+    "password": "$2b$10$pzAYV3p4nJvgV8Sga9Q1vOunQ3ZwbilBwkxvauC4flZb9yheNZNLe",
+    "basic_salary": 80000
+  },
+  {
+    "id": 1771580054793,
+    "name": "admin2",
+    "email": "admin2@admin.com",
+    "password": "$2b$10$rjim1DuQNgkMG16pi/vEf.Rp4h6EYnIkXzGpjvCZ18aW.dO886aPe",
+    "basic_salary": 23000
+  }
+]
