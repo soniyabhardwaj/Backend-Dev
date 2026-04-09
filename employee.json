@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1771525291988,
+    "name": "sahil kumar",
+    "email": "sahil@gmail.com",
+    "password": "$2b$10$k4uWfNe.0dVP10EQV4jtAemI4QS/1ySRrgU.pWuHxWsX8Ogfwecfi",
+    "department": "engineering",
+    "basic_salary": 40000
+  },
+
+  
+  {
+    "id": 1771525751074,
+    "name": "aman",
+    "email": "aman@gmail.com",
+    "password": "$2b$10$z0HcIjb7ZpPwihWah8Sa0.6f12VP9N0fx1ilrraUN4X.MJhl6cKdm",
+    "department": "developer",
+    "basic_salary": 45000
+  }
+]
